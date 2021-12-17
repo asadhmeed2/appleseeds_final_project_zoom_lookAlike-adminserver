@@ -1,4 +1,4 @@
-# grope video chat web app
+# grope video chat web app admin server
 
 ## Decription
 a server application for admin secrit code generating.
